@@ -1,0 +1,1 @@
+useful personal script for using python itol api for plotting trees on ITOL's interface. requires newick.tree file, API key from ITOL subscription,existing project name on ITOL & bool arg for including leaf name annotation.
